@@ -1,0 +1,12 @@
+C:\TestProject\TestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\TestProject\TestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\TestProject\TestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\TestProject\TestProject\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\TestProject\TestProject\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\TestProject\TestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\TestProject\TestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\TestProject\TestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\TestProject\TestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\TestProject\TestProject\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\TestProject\TestProject\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\TestProject\TestProject\UnitTestProject\obj\Debug\UnitTestProject.pdb
