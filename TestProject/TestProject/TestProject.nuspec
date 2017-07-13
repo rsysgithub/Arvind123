@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TestProject-Demo</id>
+    <version>1.0.0.1</version>
+    <title>TestProject-NugetPackage</title>
+    <authors>Arvind</authors>
+    <owners>Arvind</owners>
+    <projectUrl>https://github.com/rsysgithub/Arvind123</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is test project and first nuget package</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Project Demo, Rsystems</tags>
+  </metadata>
+</package>
